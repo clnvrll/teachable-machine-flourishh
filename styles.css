@@ -1,1 +1,19 @@
+img{ 
+    width: 400px;
+}
 
+body{
+    text-align: center;
+}
+
+body{ 
+    text-align: center;
+    font-family: 'Arial';
+}
+
+body{
+    text-align: center;
+    font-family: 'Barriecito';
+    background: azure;
+    color: pink;
+}
